@@ -1,4 +1,5 @@
 A PyTorch implementation of a conditional diffusion model (DDPM) trained on a synthetic 2D dataset.
+
 Built during my internship to learn how diffusion models work, with guidance from my mentor and assigned tasks.
 
 The dataset consists of 5 Gaussian clusters in 2D, each labeled with flag 0 or flag 1. 
